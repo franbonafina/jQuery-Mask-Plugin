@@ -6,9 +6,6 @@ A jQuery Plugin to make masks on form fields and HTML elements.
 [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/jquery-mask-plugin/badge?style=rounded)](https://www.jsdelivr.com/package/npm/jquery-mask-plugin)
 [![CDNJS](https://img.shields.io/cdnjs/v/jquery.mask.svg)](https://cdnjs.com/libraries/jquery.mask)
 
-# Documentation, Demos & Usage Examples
-https://igorescobar.github.io/jQuery-Mask-Plugin/
-
 ## Features
 
   * Lightweight (~2kb minified, ~1kb gziped).
@@ -129,9 +126,13 @@ docker exec -it $CONTAINER_ID /bin/bash
 grunt test
 ```
 
+# Licence
+Apache 2.0
+
+
 ## Contributors
  * [Igor Lima](https://github.com/igorlima)
  * [Mark Simmons](https://github.com/Markipelago)
  * [Gabriel Schammah](https://github.com/gschammah)
  * [Marcelo Manzan](https://github.com/kawamanza)
- * [See the full list](https://github.com/igorescobar/jQuery-Mask-Plugin/graphs/contributors)
+ * [Franco Bonafina](https://github.com/franbonafina)
